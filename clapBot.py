@@ -35,4 +35,4 @@ async def clap(sentence):
     else:
         return await my_bot.say(" ".join(temp))
 
-my_bot.run("MzE1NTczOTc3MTM5MzgwMjI0.DAIs0A.Q59gwXvN2jvbGUV0iYmaR-36-_s")
+my_bot.run("") # insert bot key
